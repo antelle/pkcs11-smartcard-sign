@@ -1,0 +1,34 @@
+{
+  "name": "pkcs11-smartcard-sign",
+  "version": "1.0.0",
+  "description": "This module allows you to sign anything with a private key stored on PKCS #11 smartcard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antelle/pkcs11-smartcard-sign.git"
+  },
+  "keywords": [
+    "pkcs#11",
+    "sign",
+    "signature",
+    "crypto",
+    "smartcard",
+    "smart",
+    "card",
+    "sha256",
+    "sha"
+  ],
+  "author": {
+    "name": "Antelle",
+    "email": "antelle.net@gmail.com",
+    "url": "http://antelle.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antelle/pkcs11-smartcard-sign/issues"
+  },
+  "homepage": "https://github.com/antelle/pkcs11-smartcard-sign#readme"
+}
