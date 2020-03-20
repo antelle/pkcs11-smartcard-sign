@@ -1,6 +1,6 @@
 {
   "name": "pkcs11-smartcard-sign",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module allows you to sign anything with a private key stored on PKCS #11 smartcard.",
   "main": "index.js",
   "scripts": {
